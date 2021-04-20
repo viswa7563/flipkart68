@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class loginTest
+public class loginTest.java
 {
     /**
      * Rigorous Test :-)
